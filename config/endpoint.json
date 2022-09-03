@@ -1,0 +1,24 @@
+{
+   "api" :{
+        "blog":{
+            "GET":{
+                "article" : "pageController",
+                "articleList": "pageController"
+            },
+            "POST":{
+                "article" : "pageController"
+            },
+            "PUT":{
+                "article" : "pageController"
+            },
+            "DELETE":{
+                "article" : "pageController"
+            }
+         },
+        "Contacto": {
+            "POST":{
+
+            }
+        }
+    }
+}
